@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;1,500&family=Roboto:wght@100;300;400;500;900&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.container{
+    max-width: 85%;
+    margin: auto;
+
+}
+.first-sec {
+    display:flex;
+    flex-wrap: nowrap;
+  }
+.left-part{
+    width: 50%;
+    padding: 120px 120px 0px 0px;
+}
+.left-part h2{
+    font-size: 60px;
+    margin: 0;
+    
+}
+.left-part p {
+    width: 600px;
+    line-height: 24px;
+}
+.right-part{
+    width: 45%;
+}
+.right-part img{
+    width: 400px;
+    margin-left: 60px;
+}
+.h-button{
+    padding: 10px 30px;
+    font-size: 13px;
+    font-weight: 600;
+    background-color: #FF5959;
+    border: none;
+    border-color: #FF5959;
+    color: white;
+    margin-bottom: 15px;
+    
+}
+.head-part2{
+   color: #FFAD5A;
+    
+    
+}
+.Mission-part{
+    text-align: center;
+}
+.Mission-part h2{
+    font-size: 40px;
+}
+.Secondpart-rules{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.parts{
+    width: 30%;
+    background-color: #EDF5F6;
+    margin-right: 30px;
+    text-align: left;
+    border-radius: 20px;
+
+}
+.parts1{
+    width: 30%;
+    background-color: #FFEEEE;
+    margin-right: 30px;
+    text-align: left;
+    border-radius: 20px;
+
+
+}
+.parts2{
+    width: 30%;
+    background-color: #FFF4D6;
+    text-align: left;
+    border-radius: 20px;
+
+
+}
+.parts img {
+    width: 120px;
+}
+.parts1 img {
+    width: 120px;
+}
+.parts2 img {
+    width: 120px;
+}
+.bg-part{
+    padding-left: 20px;
+    padding-bottom: 20px;
+    width: 90%;
+    padding-top: 20px;
+
+}
+.bg-part1{
+    padding-left: 20px;
+    padding-bottom: 20px;
+    width: 90%;
+    padding-top: 20px;
+    
+}
+.bg-part2{
+    padding-left: 20px;
+    padding-bottom: 20px;
+    width: 90%;
+    padding-top: 20px;
+
+}
